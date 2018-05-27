@@ -27,6 +27,19 @@ h2{
     font-size: 1em;
 
 }
+h3{
+    color:black;
+    text-align: center;
+    font-family:"Adam";
+}
+p{
+    color:black;
+ text-align:center;
+    font-family:"Helvetica Neue";
+
+    
+}
+
 input{
     border-color: grey;
     border-radius: 4px;
@@ -55,6 +68,16 @@ input{
     cursor: pointer;
   
     
+}
+#singularEvent{
+    background-color: white;
+    height:200px;
+    border-radius: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 5%;
+    margin-bottom: 10px;
+
 }
 
 #backButton{
@@ -100,4 +123,5 @@ html, body {
     overflow: hidden;
     background-color:#94bcfc;
 }
+
 
